@@ -1,0 +1,128 @@
+{
+  "clients": [
+    {
+      "id": "2",
+      "lastVoteDate": "2024-08-29T00:24:55.890Z"
+    },
+    {
+      "id": "1",
+      "lastVoteDate": "2024-08-29T02:43:11.428Z"
+    },
+    {
+      "id": "4",
+      "lastVoteDate": "2024-08-29T02:43:29.044Z"
+    },
+    {
+      "id": "5",
+      "lastVoteDate": "2024-08-29T02:43:34.245Z"
+    },
+    {
+      "id": "3",
+      "lastVoteDate": "2024-08-29T03:07:49.704Z"
+    }
+  ],
+  "markets": [
+    {
+      "marketId": 1,
+      "hygiene": 2,
+      "queues": 2,
+      "service": 3,
+      "prices": 2,
+      "marketName": "Imec Supermercado",
+      "totalVotes": 1,
+      "image": "https://home.superimec.com.br/wp-content/uploads/2023/02/bg-institucional-1024x576.jpg"
+    },
+    {
+      "marketId": 2,
+      "hygiene": 3,
+      "queues": 3,
+      "service": 3,
+      "prices": 2,
+      "marketName": "Super Apolo",
+      "totalVotes": 1,
+      "image": "https://www.correiodopovo.com.br/image/contentid/policy:1.701630:1677726521/Tonin-Imoveis-executa-obra-da-Via-Atacadista-em-Farroupilha-Divulgac-o-Via-Atacadista-DJI-0619-1.JPG?f=2x1&$p$f=31e7b97&w=2400&$w=d2ad2f2"
+    },
+    {
+      "marketId": 3,
+      "hygiene": 7,
+      "queues": 6,
+      "service": 10,
+      "prices": 6,
+      "marketName": "Rede Polo Supermercados",
+      "totalVotes": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG3_dZ-NwjzK2jCczccdS-5xWKRw4BGLWCg&s"
+    },
+    {
+      "marketId": 4,
+      "hygiene": 0,
+      "queues": 0,
+      "service": 0,
+      "prices": 0,
+      "marketName": "Via Atacadista",
+      "totalVotes": 0,
+      "image": "https://superhiper.com.br/devlop/wp-content/uploads/2024/03/via2.jpg"
+    },
+    {
+      "marketId": 5,
+      "hygiene": 0,
+      "queues": 0,
+      "service": 0,
+      "prices": 0,
+      "marketName": "Vantajão Atacado",
+      "totalVotes": 0,
+      "image": "https://superhiper.com.br/devlop/wp-content/uploads/2023/11/FOTO-DESTAQUE-SH-2023-11-14T162427.163.png"
+    }
+  ],
+  "votes": [
+    {
+      "clientId": "2",
+      "marketId": 1,
+      "hygiene": 2,
+      "queues": 2,
+      "service": 3,
+      "prices": 2,
+      "date": "2024-08-29T00:24:55.890Z",
+      "id": 1
+    },
+    {
+      "clientId": "1",
+      "marketId": 3,
+      "hygiene": 3,
+      "queues": 2,
+      "service": 4,
+      "prices": 2,
+      "date": "2024-08-29T02:43:11.428Z",
+      "id": 2
+    },
+    {
+      "clientId": "4",
+      "marketId": 3,
+      "hygiene": 2,
+      "queues": 2,
+      "service": 3,
+      "prices": 2,
+      "date": "2024-08-29T02:43:29.044Z",
+      "id": 3
+    },
+    {
+      "clientId": "5",
+      "marketId": 3,
+      "hygiene": 2,
+      "queues": 2,
+      "service": 3,
+      "prices": 2,
+      "date": "2024-08-29T02:43:34.245Z",
+      "id": 4
+    },
+    {
+      "clientId": "3",
+      "marketId": 2,
+      "hygiene": 3,
+      "queues": 3,
+      "service": 3,
+      "prices": 2,
+      "date": "2024-08-29T03:07:49.704Z",
+      "id": 5
+    }
+  ]
+}
